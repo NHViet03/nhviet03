@@ -49,9 +49,9 @@ I'm a dedicated student currently pursuing my degree in Information Systems at U
 And other projects can be found at [My GitHub Repositories](https://github.com/NHViet03?tab=repositories)
 
 ### 📫 How to Reach Me
-- **Email**: [21522791@gm.uit.edu.vn]
-- **LinkedIn**: [https://www.linkedin.com/in/hviet03]
-- **GitHub**: [https://github.com/NHViet03]
+- **Email**: 21522791@gm.uit.edu.vn
+- **LinkedIn**: https://www.linkedin.com/in/hviet03
+- **GitHub**: https://github.com/NHViet03
 
 Feel free to explore my repositories and connect with me. I'm always open to collaborations, discussions, and learning opportunities!
 
