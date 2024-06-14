@@ -1,5 +1,5 @@
 ## Hi, I'm Viet 👋
-I'm a dedicated student currently pursuing my degree in Information Systems at the University of Information Technology - VNUHCM. I'm aiming to become a proficient web app developer, leveraging modern technologies to build efficient, scalable, and user-friendly applications. My educational journey and projects have equipped me with a strong foundation in both theoretical knowledge and practical skills, preparing me for a career in the tech industry.
+I'm a dedicated student currently pursuing my degree in Information Systems at UIT. I'm aiming to become a proficient web app developer, leveraging modern technologies to build efficient, scalable, and user-friendly applications. My educational journey and projects have equipped me with a strong foundation in both theoretical knowledge and practical skills, preparing me for a career in the tech industry.
 
 ### 🎓 Education
 - **University**: University of Information Technology - VNUHCM (UIT)
